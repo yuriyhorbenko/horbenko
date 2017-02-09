@@ -1,0 +1,11 @@
+
+{
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.ria.auto",
+      "url": "android-app://com.ria.auto/https/auto.ria.com"
+    }
+  ]
+}
