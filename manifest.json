@@ -7,5 +7,16 @@
       "id": "com.ria.auto",
       "url": "android-app://com.ria.auto/https/auto.ria.com"
     }
-  ]
+  ],
+  "short_name": "AUTO.RIA",
+  "name": "AUTO.RIA — новые и б/у авто",
+  "icons": [
+    {
+      "src": "launcher-icon-3x.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone"
 }
