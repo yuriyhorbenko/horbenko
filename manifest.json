@@ -1,6 +1,6 @@
 {
-  "name": "AUTO.RIA — новые и б/у авто",
-  "short_name": "AUTO.RIA",
+  "name": "App Install Banner Sample",
+  "short_name": "App Install Banner Sample",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
@@ -37,7 +37,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.ria.auto"
+      "id": "com.google.samples.apps.iosched"
     }
   ],
   "start_url": "./index.html",
